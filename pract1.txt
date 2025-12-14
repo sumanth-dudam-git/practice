@@ -1,2 +1,3 @@
 revising GIT topics by pacticing commands
 escpae ke check
+inserting text after commiting
