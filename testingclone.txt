@@ -1,0 +1,1 @@
+Testing cloned folder with gitclone command.:wq!
